@@ -1,0 +1,52 @@
+/*Header*/
+navbar-header {
+}
+#header-nav {
+	background: #001f3f;
+	color: #000;
+	border:0;
+}
+.navbar-brand p {
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #fff;
+}
+#collapsable-nav {
+	padding: 0;
+	border: 1.5px solid #001f3f;
+}
+#nav-list {
+	background: #333;
+	border: 1px solid #001f3f;
+	margin:0;
+}
+#nav-list p {
+	padding-top: 8px;
+	padding-bottom: 2.5px;
+	color: #fff;
+	font-size: 1.3em;
+	margin: 0;
+	border: 1px solid #001f3f;
+}
+#nav-list p:hover {
+	background: grey;
+}
+
+
+/*Body*/
+h1 {
+	font-weight: bold;
+	font-size: 3em
+}
+#main-section {
+	background: #ffdc00;
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+#main-section p:nth-child(1) {
+	margin-top: 5px;
+	font-weight: bold;
+	font-size: 1.5em
+}
